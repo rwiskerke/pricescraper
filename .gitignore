@@ -1,0 +1,4 @@
+*.dotty*
+.idea
+.env
+target
