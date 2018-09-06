@@ -15,8 +15,8 @@ Make sure the environment contains these vars (see .env.sample):
 
 |variable|type|
 |--------|----|
-|PRICESCRAPER_AWS_ACCESS_KEY_ID|string
-|PRICESCRAPER_AWS_SECRET_ACCESS_KEY|string
+|AWS_ACCESS_KEY_ID|string
+|AWS_SECRET_ACCESS_KEY|string
 |PRICESCRAPER_ALWAYS_MAIL|boolean ("true" or "false")
 |PRICESCRAPER_EMAIL_FROM|string
 |PRICESCRAPER_EMAIL_TO|string
